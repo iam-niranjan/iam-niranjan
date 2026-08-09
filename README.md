@@ -1,10 +1,6 @@
 # Niranjan Ganesan
 
-Security Leader | Cloud Security | Vulnerability Research | Governance | AI Security
-
-I work across cybersecurity, cloud security, security engineering, compliance, privacy, vulnerability research, and AI governance.
-
-🌐 [Security Insights](https://securityinsights.io/)
+Security Leader · Cloud Security · Vulnerability Research · Governance · AI Security
 
 ## Research Interests
 
@@ -19,40 +15,17 @@ I work across cybersecurity, cloud security, security engineering, compliance, p
 
 ## Security Contributions
 
-### Security Advisories & Vulnerability Research
+**Security Advisories & Vulnerability Research**
 
-**mail parser**
+* [GHSA fr3h cpq2 9496](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-fr3h-cpq2-9496) — mail parser path traversal vulnerability in attachment extraction
 
-* [GHSA fr3h cpq2 9496](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-fr3h-cpq2-9496)  
-  Path Traversal vulnerability in attachment extraction  
-  Reporter: Niranjan Ganesan  
-  CVSS 3.1: 6.5  
-  Affected versions: 3.8.0 through 4.5.0  
-  Fixed in: 4.6.0
+## Selected Publications
 
-Additional coordinated vulnerability disclosures will be added following public disclosure.
+* **CCSK Success Story: From an IT and Cloud Security Manager**, Cloud Security Alliance, 2022 [[Read](https://cloudsecurityalliance.org/blog/2022/11/23/ccsk-success-story-from-an-it-and-cloud-security-manager)]
 
-## Open Source Security
+## Certifications
 
-I contribute security research, vulnerability reports, remediation validation, and security focused pull requests to open source projects.
-
-My focus is on identifying practical security issues, validating impact responsibly, working with maintainers on remediation, and improving security without unnecessarily breaking existing software.
-
-## Featured Publication & Interview
-
-### Cloud Security Alliance
-
-**CCSK Success Story: From an IT and Cloud Security Manager**
-
-Cloud Security Alliance, November 2022
-
-[Read the Cloud Security Alliance interview](https://cloudsecurityalliance.org/blog/2022/11/23/ccsk-success-story-from-an-it-and-cloud-security-manager)
-
-Topics include cloud security, shared responsibility, cloud governance, security controls, CCM, CAIQ, compliance, and CCSK.
-
-## Selected Certifications
-
-### Security & Governance
+**Security Leadership & Governance**
 
 * CISA
 * CISM
@@ -62,57 +35,29 @@ Topics include cloud security, shared responsibility, cloud governance, security
 * CDPSE
 * CIPT
 
-### Cloud & Zero Trust
+**Cloud & Zero Trust**
 
 * AWS Certified Security Specialty
 * Certificate of Cloud Security Knowledge, CCSK
 * Certificate of Competence in Zero Trust, CCZT
 
-### Security Engineering
+**Security Engineering**
 
 * CompTIA Security+
 * CompTIA PenTest+
 * MITRE ATT&CK Cyber Threat Intelligence
 
-### Governance, Audit & AI
+**Audit & AI Governance**
 
 * ISO 27001 Lead Auditor
 * ISO 42001 Lead Auditor
-* SOC Assessments
-* ITIL
 
 ### Verified Credentials
 
-🎓 [Credly Profile](https://www.credly.com/users/niranjan-ganesan.a882dffa/badges)
-
-🎓 [Accredible Profile](https://v2.credential.net/profile/niranjanganesan/wallet)
-
-## Projects
-
-### Security Automation
-
-I build practical security tools and automations around:
-
-* Application security
-* AI assisted code review
-* Secret detection
-* Vendor security assessments
-* Security governance
-* Compliance automation
-* Privacy and accessibility validation
-
-Explore my repositories below.
-
-## Security Insights
-
-I write and experiment with cybersecurity, cloud security, security automation, responsible disclosure, and AI security.
-
-🌐 [securityinsights.io](https://securityinsights.io/)
+[![Credly](https://img.shields.io/badge/Credly-View%20Badges-orange?logo=credly&logoColor=white)](https://www.credly.com/users/niranjan-ganesan.a882dffa/badges)
+[![Accredible](https://img.shields.io/badge/Accredible-View%20Credentials-blue)](https://v2.credential.net/profile/niranjanganesan/wallet)
 
 ## Contact
 
-GitHub: [@iam-niranjan](https://github.com/iam-niranjan)
-
-Website: [Security Insights](https://securityinsights.io/)
-
-LinkedIn: [Niranjan Ganesan](https://www.linkedin.com/in/niranjan-ganesan-in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-securityinsights.io-blue)](https://securityinsights.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niranjan%20Ganesan-blue)](https://www.linkedin.com/in/niranjan-ganesan-in/)
