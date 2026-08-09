@@ -1,56 +1,59 @@
-# Niranjan Ganesan
+# Hey, I'm Niranjan Ganesan 👋
 
+<samp>
 Security Leader · Cloud Security · Vulnerability Research · Governance · AI Security
+</samp>
 
 ## Research Interests
 
-* Vulnerability Research
-* Application Security
-* Cloud Security
-* AI and Agent Security
-* Open Source Security
-* Security Automation
-* Responsible Disclosure
-* Security Governance and Compliance
+<samp>
+• Vulnerability Research<br>
+• Application Security<br>
+• Cloud Security<br>
+• AI and Agent Security<br>
+• Open Source Security<br>
+• Security Automation<br>
+• Responsible Disclosure<br>
+• Security Governance and Compliance
+</samp>
 
 ## Security Contributions
 
-**Security Advisories & Vulnerability Research**
-
-* [GHSA fr3h cpq2 9496](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-fr3h-cpq2-9496) — mail parser path traversal vulnerability in attachment extraction
+<samp>
+<b>Security Advisories & Vulnerability Research</b><br>
+<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-fr3h-cpq2-9496">GHSA fr3h cpq2 9496</a> · mail parser path traversal vulnerability in attachment extraction
+</samp>
 
 ## Selected Publications
 
-* **CCSK Success Story: From an IT and Cloud Security Manager**, Cloud Security Alliance, 2022 [[Read](https://cloudsecurityalliance.org/blog/2022/11/23/ccsk-success-story-from-an-it-and-cloud-security-manager)]
+<samp>
+<b>CCSK Success Story: From an IT and Cloud Security Manager</b> · Cloud Security Alliance, 2022 · <a href="https://cloudsecurityalliance.org/blog/2022/11/23/ccsk-success-story-from-an-it-and-cloud-security-manager">Read</a>
+</samp>
 
 ## Certifications
 
-**Security Leadership & Governance**
+<samp>
+<b>AI Governance & Threat Intelligence</b><br>
+ISO 42001:2023 Lead Auditor · Certified ATT&CK Cyber Threat Intelligence · Certified ATT&CK Security Operations Center Assessments<br>
 
-* CISA
-* CISM
-* CRISC
-* CGEIT
-* CCISO
-* CDPSE
-* CIPT
+<b>Governance, Risk & Audit</b><br>
+CISA · CISM · CRISC · CGEIT · CCISO · Certified GCHQ Cyber Incident Planning & Response (CIPR)<br>
 
-**Cloud & Zero Trust**
+<b>Privacy</b><br>
+CDPSE · CIPT · Privacy Engineering Certification<br>
 
-* AWS Certified Security Specialty
-* Certificate of Cloud Security Knowledge, CCSK
-* Certificate of Competence in Zero Trust, CCZT
+<b>Cloud Security</b><br>
+AWS Certified Security Specialty · AWS Certified Solutions Architect Associate · CCSK · CCZT · Certified Advanced Cloud Security Auditing (CSA STAR)<br>
 
-**Security Engineering**
+<b>ISO Standards</b><br>
+ISO 27001:2022 Lead Auditor · ISO 27001:2013 Lead Auditor<br>
 
-* CompTIA Security+
-* CompTIA PenTest+
-* MITRE ATT&CK Cyber Threat Intelligence
+<b>Technical & Practitioner</b><br>
+CompTIA Security+ · CompTIA PenTest+ · CompTIA Network Vulnerability Assessment Professional · Redis Security · VMware Certified Associate Data Center Virtualization<br>
 
-**Audit & AI Governance**
-
-* ISO 27001 Lead Auditor
-* ISO 42001 Lead Auditor
+<b>Service Management & Agile</b><br>
+ITIL v4 Foundation · Certified Scrum Master · Certified Agile Leader 1 · Certified Agile Leadership Essentials (CAL E) · Certified Agile Leadership for Teams (CAL T) · Certified Agile Leadership for Orgs (CAL O) · Cyber Supply Chain Management
+</samp>
 
 ### Verified Credentials
 
