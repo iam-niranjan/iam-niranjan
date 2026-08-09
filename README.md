@@ -34,22 +34,22 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 
 <samp>
 <b>AI Governance & Threat Intelligence</b><br>
-ISO 42001:2023 Lead Auditor · Certified ATT&CK Cyber Threat Intelligence · Certified ATT&CK Security Operations Center Assessments<br>
+ISO 42001:2023 Lead Auditor · Certified ATT&CK Cyber Threat Intelligence · Certified ATT&CK Security Operations Center Assessments<br><br>
 
 <b>Governance, Risk & Audit</b><br>
-CISA · CISM · CRISC · CGEIT · CCISO · Certified GCHQ Cyber Incident Planning & Response (CIPR)<br>
+CISA · CISM · CRISC · CGEIT · CCISO · Certified GCHQ Cyber Incident Planning & Response (CIPR)<br><br>
 
 <b>Privacy</b><br>
-CDPSE · CIPT · Privacy Engineering Certification<br>
+CDPSE · CIPT · Privacy Engineering Certification<br><br>
 
 <b>Cloud Security</b><br>
-AWS Certified Security Specialty · AWS Certified Solutions Architect Associate · CCSK · CCZT · Certified Advanced Cloud Security Auditing (CSA STAR)<br>
+AWS Certified Security Specialty · AWS Certified Solutions Architect Associate · CCSK · CCZT · Certified Advanced Cloud Security Auditing (CSA STAR)<br><br>
 
 <b>ISO Standards</b><br>
-ISO 27001:2022 Lead Auditor · ISO 27001:2013 Lead Auditor<br>
+ISO 27001:2022 Lead Auditor · ISO 27001:2013 Lead Auditor<br><br>
 
 <b>Technical & Practitioner</b><br>
-CompTIA Security+ · CompTIA PenTest+ · CompTIA Network Vulnerability Assessment Professional · Redis Security · VMware Certified Associate Data Center Virtualization<br>
+CompTIA Security+ · CompTIA PenTest+ · CompTIA Network Vulnerability Assessment Professional · Redis Security · VMware Certified Associate Data Center Virtualization<br><br>
 
 <b>Service Management & Agile</b><br>
 ITIL v4 Foundation · Certified Scrum Master · Certified Agile Leader 1 · Certified Agile Leadership Essentials (CAL E) · Certified Agile Leadership for Teams (CAL T) · Certified Agile Leadership for Orgs (CAL O) · Cyber Supply Chain Management
