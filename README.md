@@ -20,8 +20,11 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 ## Security Contributions
 
 <samp>
-<b>Security Advisories & Vulnerability Research</b><br>
-<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-fr3h-cpq2-9496">GHSA fr3h cpq2 9496</a> · mail parser path traversal vulnerability in attachment extraction
+<b>Security Advisories & Vulnerability Research</b><br><br>
+
+<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-r7w7-vpq8-c5vv">GHSA r7w7 vpq8 c5vv</a> | mail parser polynomial ReDoS in email header parsing | <b>Package Usage</b>  3.2M+ PyPI downloads/month | <b>CVE pending</b> 
+
+<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-fr3h-cpq2-9496">GHSA fr3h cpq2 9496</a> | mail parser path traversal vulnerability in attachment extraction | <b>Package Usage</b>  3.2M+ PyPI downloads/month | <b>CVE pending</b> 
 </samp>
 
 ## Selected Publications
