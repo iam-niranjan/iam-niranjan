@@ -32,7 +32,7 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 
 <a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-24mq-4vc6-2prf">GHSA 24mq 4vc6 2prf</a> | mail parser uncaught exceptions and silent header loss on attacker controlled input | <b>Package Usage</b>  3.2M+ PyPI downloads/month
 
-<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-2jj6-v3xw-49w3">GHSA-2jj6-v3xw-49w3</a> | Server-Side Template Injection / sandbox escape in liquidpy leads to arbitrary code execution | <b>Package Usage</b> 317K+ PyPI downloads/month
+<a href="https://github.com/pwwang/liquidpy/security/advisories/GHSA-2jj6-v3xw-49w3">GHSA-2jj6-v3xw-49w3</a> | Server-Side Template Injection / sandbox escape in liquidpy leads to arbitrary code execution | <b>Package Usage</b> 317K+ PyPI downloads/month
 </samp>
 
 ## Selected Publications
