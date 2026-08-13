@@ -25,6 +25,12 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 <a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-r7w7-vpq8-c5vv">GHSA r7w7 vpq8 c5vv</a> | mail parser polynomial ReDoS in email header parsing | <b>Package Usage</b>  3.2M+ PyPI downloads/month | <b>CVE pending</b> 
 
 <a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-fr3h-cpq2-9496">GHSA fr3h cpq2 9496</a> | mail parser path traversal vulnerability in attachment extraction | <b>Package Usage</b>  3.2M+ PyPI downloads/month | <b>CVE pending</b> 
+
+<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-78xv-5vfh-jh5q">GHSA 78xv 5vfh jh5q</a> | mail parser denial of service via attacker controlled header names | <b>Package Usage</b>  3.2M+ PyPI downloads/month | <b>CVE pending</b>
+
+<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-72px-j8gh-p79x">GHSA 72px j8gh p79x</a> | mail parser sender IP address spoofing in get_server_ipaddress() | <b>Package Usage</b>  3.2M+ PyPI downloads/month | <b>CVE pending</b>
+
+<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-24mq-4vc6-2prf">GHSA 24mq 4vc6 2prf</a> | mail parser uncaught exceptions and silent header loss on attacker controlled input | <b>Package Usage</b>  3.2M+ PyPI downloads/month | <b>CVE pending</b>
 </samp>
 
 ## Selected Publications
