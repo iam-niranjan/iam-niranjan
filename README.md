@@ -35,6 +35,9 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 <a href="https://github.com/pwwang/liquidpy/security/advisories/GHSA-2jj6-v3xw-49w3">GHSA-2jj6-v3xw-49w3</a> | Server-Side Template Injection / sandbox escape in liquidpy leads to arbitrary code execution | <b>Package Usage</b> 317K+ PyPI downloads/month
 </samp>
 
+<a href="https://github.com/horejsek/python-fastjsonschema/commit/a491757535e4764cf3108063c77ce18b1bb70b7e">fastjsonschema Security Fix</a> | fastjsonschema code injection via unescaped property name in generated Python validator leads to arbitrary code execution | <b>Fixed in</b> 2.22.2 | <b>Package Usage</b> 138M+ PyPI downloads/month
+</samp>
+
 ## Selected Publications
 
 <samp>
