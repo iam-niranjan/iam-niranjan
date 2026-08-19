@@ -37,12 +37,6 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 
 - [Security fix](https://github.com/horejsek/python-fastjsonschema/commit/a491757535e4764cf3108063c77ce18b1bb70b7e) | Code injection via unescaped property name in generated validator | **Fixed in** 2.22.2
 
-### guard-core — API security engine behind fastapi-guard, flaskapi-guard, djapi-guard
-
-- [GHSA-r7hm-rjvg-xx7j](https://github.com/rennf93/guard-core/security/advisories/GHSA-r7hm-rjvg-xx7j) | Quadratic ReDoS in built-in detection patterns causes single request event loop denial of service
-- [GHSA-w7wg-6q7v-44f2](https://github.com/rennf93/guard-core/security/advisories/GHSA-w7wg-6q7v-44f2) | Detection bypass via whitespace preprocessing allows HTTP splitting and command injection payloads through
-- [GHSA-gm9r-hvc9-96gv](https://github.com/rennf93/guard-core/security/advisories/GHSA-gm9r-hvc9-96gv) | Redis key injection and rate limit bypass via unvalidated `X-Forwarded-For` header
-
 </samp>
 
 ## Selected Publications
