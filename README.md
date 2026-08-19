@@ -20,22 +20,29 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 ## Security Contributions
 
 <samp>
-<b>Security Advisories & Vulnerability Research</b><br><br>
+  
+### mail-parser (SpamScope) — 3.2M+ PyPI downloads/month
 
-<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-r7w7-vpq8-c5vv">GHSA r7w7 vpq8 c5vv</a> | mail-parser polynomial ReDoS in email header parsing | <b>Package Usage</b>  3.2M+ PyPI downloads/month
+- [GHSA-r7w7-vpq8-c5vv](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-r7w7-vpq8-c5vv) | Polynomial ReDoS in email header parsing
+- [GHSA-fr3h-cpq2-9496](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-fr3h-cpq2-9496) | Path traversal in attachment extraction
+- [GHSA-78xv-5vfh-jh5q](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-78xv-5vfh-jh5q) | Denial of service via attacker controlled header names
+- [GHSA-72px-j8gh-p79x](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-72px-j8gh-p79x) | Sender IP spoofing in `get_server_ipaddress()`
+- [GHSA-24mq-4vc6-2prf](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-24mq-4vc6-2prf) | Uncaught exceptions and silent header loss on attacker controlled input
 
-<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-fr3h-cpq2-9496">GHSA fr3h cpq2 9496</a> | mail-parser path traversal vulnerability in attachment extraction | <b>Package Usage</b>  3.2M+ PyPI downloads/month
+### liquidpy — 317K+ PyPI downloads/month
 
-<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-78xv-5vfh-jh5q">GHSA 78xv 5vfh jh5q</a> | mail-parser denial of service via attacker controlled header names | <b>Package Usage</b>  3.2M+ PyPI downloads/month
+- [GHSA-2jj6-v3xw-49w3](https://github.com/pwwang/liquidpy/security/advisories/GHSA-2jj6-v3xw-49w3) | Server-side template injection and sandbox escape leads to arbitrary code execution
 
-<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-72px-j8gh-p79x">GHSA 72px j8gh p79x</a> | mail-parser sender IP address spoofing in get_server_ipaddress() | <b>Package Usage</b>  3.2M+ PyPI downloads/month
+### fastjsonschema — 138M+ PyPI downloads/month
 
-<a href="https://github.com/SpamScope/mail-parser/security/advisories/GHSA-24mq-4vc6-2prf">GHSA 24mq 4vc6 2prf</a> | mail-parser uncaught exceptions and silent header loss on attacker controlled input | <b>Package Usage</b>  3.2M+ PyPI downloads/month
+- [Security fix](https://github.com/horejsek/python-fastjsonschema/commit/a491757535e4764cf3108063c77ce18b1bb70b7e) | Code injection via unescaped property name in generated validator | **Fixed in** 2.22.2
 
-<a href="https://github.com/pwwang/liquidpy/security/advisories/GHSA-2jj6-v3xw-49w3">GHSA-2jj6-v3xw-49w3</a> | Server-Side Template Injection / sandbox escape in liquidpy leads to arbitrary code execution | <b>Package Usage</b> 317K+ PyPI downloads/month
-</samp>
+### guard-core — API security engine behind fastapi-guard, flaskapi-guard, djapi-guard
 
-<a href="https://github.com/horejsek/python-fastjsonschema/commit/a491757535e4764cf3108063c77ce18b1bb70b7e">fastjsonschema Security Fix</a> | fastjsonschema code injection via unescaped property name in generated Python validator leads to arbitrary code execution | <b>Fixed in</b> 2.22.2 | <b>Package Usage</b> 138M+ PyPI downloads/month
+- [GHSA-r7hm-rjvg-xx7j](https://github.com/rennf93/guard-core/security/advisories/GHSA-r7hm-rjvg-xx7j) | Quadratic ReDoS in built-in detection patterns causes single request event loop denial of service
+- [GHSA-w7wg-6q7v-44f2](https://github.com/rennf93/guard-core/security/advisories/GHSA-w7wg-6q7v-44f2) | Detection bypass via whitespace preprocessing allows HTTP splitting and command injection payloads through
+- [GHSA-gm9r-hvc9-96gv](https://github.com/rennf93/guard-core/security/advisories/GHSA-gm9r-hvc9-96gv) | Redis key injection and rate limit bypass via unvalidated `X-Forwarded-For` header
+
 </samp>
 
 ## Selected Publications
