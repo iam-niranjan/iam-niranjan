@@ -43,6 +43,8 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 
 <samp>
 <b>CCSK Success Story: From an IT and Cloud Security Manager</b> · Cloud Security Alliance, 2022 · <a href="https://cloudsecurityalliance.org/blog/2022/11/23/ccsk-success-story-from-an-it-and-cloud-security-manager">Read</a>
+<br><br>
+<b>CXO Samvaad Volume 2: Leadership in the Age of AI</b> · Bharat CXO, 2026 · <a href="https://www.linkedin.com/posts/niranjan-ganesan-in_cxo-samvaad-volume-2-leadership-in-the-age-activity-7495751355613986816-TNC1?utm_source=share&utm_medium=member_desktop&rcm=ACoAABdMvHcBG6jGJ3mXDiqZliQc2eN4mF1V1xQ">Read</a>
 </samp>
 
 ## Certifications
