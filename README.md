@@ -28,6 +28,8 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 - [GHSA-78xv-5vfh-jh5q](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-78xv-5vfh-jh5q) | Denial of service via attacker controlled header names
 - [GHSA-72px-j8gh-p79x](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-72px-j8gh-p79x) | Sender IP spoofing in `get_server_ipaddress()`
 - [GHSA-24mq-4vc6-2prf](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-24mq-4vc6-2prf) | Uncaught exceptions and silent header loss on attacker controlled input
+- [GHSA-xhrq-2mqv-q8wx](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-xhrq-2mqv-q8wx) | Uncaught `OverflowError` / `OSError` on an out-of-range `Received` date
+- [GHSA-8cgq-x343-p74c](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-8cgq-x343-p74c) | One hostile attachment aborts `write_attachments()` and drops the rest of the batch
 
 ### liquidpy — 317K+ PyPI downloads/month
 
