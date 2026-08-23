@@ -79,6 +79,19 @@ ITIL v4 Foundation · Certified Scrum Master · Certified Agile Leader 1 · Cert
 [![Credly](https://img.shields.io/badge/Credly-View%20Badges-orange?logo=credly&logoColor=white)](https://www.credly.com/users/niranjan-ganesan.a882dffa/badges)
 [![Accredible](https://img.shields.io/badge/Accredible-View%20Credentials-blue)](https://v2.credential.net/profile/niranjanganesan/wallet)
 
+## Chrome Extensions
+
+<samp>
+<b>Security Insights: Phishing Protection</b> — 1.46K+ users · Real-time phishing protection using a regularly updated database of known malicious domains. No data collection.
+<br>
+<a href="https://chromewebstore.google.com/detail/security-insights-phishin/jjeiigladejdekjcgpkoafadnhpobjbb">Chrome Web Store</a>
+<br><br>
+
+<b>Webhook Quick Trigger</b> — Instantly trigger webhook endpoints from your browser without context switching. Test APIs, automate workflows, and manage webhooks securely.
+<br>
+<a href="https://chromewebstore.google.com/detail/webhook-quick-trigger/iondppochjjplhiimaldngaodoieanjb">Chrome Web Store</a>
+</samp>
+
 ## Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-securityinsights.io-blue)](https://securityinsights.io/)
