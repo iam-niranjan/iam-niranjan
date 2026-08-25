@@ -89,16 +89,17 @@ ITIL v4 Foundation · Certified Scrum Master · Certified Agile Leader 1 · Cert
 <samp>
 10 published workflow templates on n8n — security and AI-driven automation workflows.
 
-- [Intelligent email organization with AI-powered content classification for Gmail](https://n8n.io/workflows/4557-intelligent-email-organization-with-ai-powered-content-classification-for-gmail/)
 - [Intelligent AI digest for security, privacy, and compliance feeds](https://n8n.io/workflows/4678-intelligent-ai-digest-for-security-privacy-and-compliance-feeds/)
 - [Track CVE vulnerability details & history with NVD API and Google Sheets](https://n8n.io/workflows/4797-track-cve-vulnerability-details-and-history-with-nvd-api-and-google-sheets/)
 - [Interactive Slack approval & data submission system with webhooks](https://n8n.io/workflows/5049-interactive-slack-approval-and-data-submission-system-with-webhooks/)
 - [Automated GitHub scanner for exposed AWS IAM keys](https://n8n.io/workflows/5021-automated-github-scanner-for-exposed-aws-iam-keys/)
 - [Automated AWS IAM key compromise response with Slack & Claude AI](https://n8n.io/workflows/5123-automated-aws-iam-key-compromise-response-with-slack-and-claude-ai/)
-- [Daily auto-archive for Gmail messages](https://n8n.io/workflows/4679-daily-auto-archive-for-gmail-messages/)
 - [Monitor Have I Been Pwned breaches with Google Sheets, Gmail, and Slack](https://n8n.io/workflows/18518-monitor-have-i-been-pwned-breaches-with-google-sheets-gmail-and-slack/)
 - [Triage new certificate transparency subdomains with Google Sheets, Slack, Gmail and OpenAI](https://n8n.io/workflows/18575-triage-new-certificate-transparency-subdomains-with-google-sheets-slack-gmail-and-openai/)
 - [Audit SPF DNS lookup limits with Google DNS, Slack, and Gmail](https://n8n.io/workflows/18583-audit-spf-dns-lookup-limits-with-google-dns-slack-and-gmail/)
+- [Intelligent email organization with AI-powered content classification for Gmail](https://n8n.io/workflows/4557-intelligent-email-organization-with-ai-powered-content-classification-for-gmail/)
+- [Daily auto-archive for Gmail messages](https://n8n.io/workflows/4679-daily-auto-archive-for-gmail-messages/)
+
 
 [View full n8n creator profile →](https://n8n.io/creators/niranjan/)
 </samp>
