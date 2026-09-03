@@ -37,7 +37,7 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 
 ### fastjsonschema — 138M+ PyPI downloads/month
 
-- [Security fix](https://github.com/horejsek/python-fastjsonschema/commit/a491757535e4764cf3108063c77ce18b1bb70b7e) | Code injection via unescaped property name in generated validator | **Fixed in** 2.22.2
+- [GHSA-pjxj-h9q3-8gpw](https://github.com/horejsek/python-fastjsonschema/security/advisories/GHSA-pjxj-h9q3-8gpw) | Code injection via unescaped property name in generated validator
 
 ### guard-core — 34K+ PyPI downloads/month
 - [GHSA-r7hm-rjvg-xx7j](https://github.com/rennf93/guard-core/security/advisories/GHSA-r7hm-rjvg-xx7j) | Quadratic ReDoS in a built-in detection pattern freezes the event loop
