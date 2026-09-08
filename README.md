@@ -44,6 +44,9 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 - [GHSA-w7wg-6q7v-44f2](https://github.com/rennf93/guard-core/security/advisories/GHSA-w7wg-6q7v-44f2) | Whitespace-collapse preprocessing disables the CRLF and command-injection detectors
 - [GHSA-gm9r-hvc9-96gv](https://github.com/rennf93/guard-core/security/advisories/GHSA-gm9r-hvc9-96gv) | Unvalidated X-Forwarded-For value interpolated into a Redis `KEYS` glob pattern
 
+### eml-parser — 407K+ PyPI downloads/month
+- [GHSA-m4g8-47f9-h588](https://github.com/GOVCERT-LU/eml_parser/security/advisories/GHSA-m4g8-47f9-h588) | Email parsing flaw allows security checks to be bypassed
+
 </samp>
 
 ## Selected Publications
