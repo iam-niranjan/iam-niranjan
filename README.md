@@ -35,10 +35,6 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 
 - [GHSA-2jj6-v3xw-49w3](https://github.com/pwwang/liquidpy/security/advisories/GHSA-2jj6-v3xw-49w3) | Server-side template injection and sandbox escape leads to arbitrary code execution
 
-### fastjsonschema — 138M+ PyPI downloads/month
-
-- [GHSA-pjxj-h9q3-8gpw](https://github.com/horejsek/python-fastjsonschema/security/advisories/GHSA-pjxj-h9q3-8gpw) | Code injection via unescaped property name in generated validator
-
 ### guard-core — 34K+ PyPI downloads/month
 - [GHSA-r7hm-rjvg-xx7j](https://github.com/rennf93/guard-core/security/advisories/GHSA-r7hm-rjvg-xx7j) | Quadratic ReDoS in a built-in detection pattern freezes the event loop
 - [GHSA-w7wg-6q7v-44f2](https://github.com/rennf93/guard-core/security/advisories/GHSA-w7wg-6q7v-44f2) | Whitespace-collapse preprocessing disables the CRLF and command-injection detectors
@@ -46,6 +42,9 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 
 ### eml-parser — 407K+ PyPI downloads/month
 - [GHSA-m4g8-47f9-h588](https://github.com/GOVCERT-LU/eml_parser/security/advisories/GHSA-m4g8-47f9-h588) | Email parsing flaw allows security checks to be bypassed
+
+### mail-mime-parser
+- [GHSA-pmx8-5pxm-f2r6](https://github.com/zbateson/mail-mime-parser/security/advisories/GHSA-pmx8-5pxm-f2r6) | Memory and CPU exhaustion parsing untrusted message parts and header values
 
 </samp>
 
