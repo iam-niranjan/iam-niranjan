@@ -46,6 +46,9 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 ### mail-mime-parser
 - [GHSA-pmx8-5pxm-f2r6](https://github.com/zbateson/mail-mime-parser/security/advisories/GHSA-pmx8-5pxm-f2r6) | Memory and CPU exhaustion parsing untrusted message parts and header values
 
+### httptap
+- [GHSA-pgxm-hj3g-p7wv](https://github.com/ozeranskii/httptap/security/advisories/GHSA-pgxm-hj3g-p7wv) | Credentials and request body leaked to redirect targets on different origins when using `--follow`
+
 </samp>
 
 ## Selected Publications
