@@ -97,7 +97,7 @@ ITIL v4 Foundation · Certified Scrum Master · Certified Agile Leader 1 · Cert
 
 ## n8n Automation Workflows
 
-10 published workflow templates on n8n covering security and AI driven automation.
+11 published workflow templates on n8n covering security and AI driven automation.
 
 * [Intelligent AI digest for security, privacy, and compliance feeds](https://n8n.io/workflows/4678-intelligent-ai-digest-for-security-privacy-and-compliance-feeds/)
 * [Track CVE vulnerability details & history with NVD API and Google Sheets](https://n8n.io/workflows/4797-track-cve-vulnerability-details-and-history-with-nvd-api-and-google-sheets/)
@@ -109,9 +109,9 @@ ITIL v4 Foundation · Certified Scrum Master · Certified Agile Leader 1 · Cert
 * [Audit SPF DNS lookup limits with Google DNS, Slack, and Gmail](https://n8n.io/workflows/18583-audit-spf-dns-lookup-limits-with-google-dns-slack-and-gmail/)
 * [Intelligent email organization with AI powered content classification for Gmail](https://n8n.io/workflows/4557-intelligent-email-organization-with-ai-powered-content-classification-for-gmail/)
 * [Daily auto archive for Gmail messages](https://n8n.io/workflows/4679-daily-auto-archive-for-gmail-messages/)
+* [Organize Gmail inbox labels with Jev TypeSafe AI (System One)](https://n8n.io/workflows/19769-organize-gmail-inbox-labels-with-jev-typesafe-ai-system-one/)
 
 [View full n8n creator profile →](https://n8n.io/creators/niranjan/)
-
 ## Chrome Extensions
 
 ### Security Insights: Phishing Protection
