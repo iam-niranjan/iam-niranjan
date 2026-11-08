@@ -55,6 +55,10 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 
 * [GHSA-pgxm-hj3g-p7wv](https://github.com/ozeranskii/httptap/security/advisories/GHSA-pgxm-hj3g-p7wv) | Credentials and request body leaked to redirect targets on different origins when using `--follow`
 
+### 582M+ python-dotenv downloads/month
+
+* [GHSA-3f4c-pq79-c39p](https://github.com/theskumar/python-dotenv/security/advisories/GHSA-3f4c-pq79-c39p) | Shell command injection via unescaped variable names in `dotenv list --format=shell` and `--format=export`
+
 ## Selected Publications
 
 * **CCSK Success Story: From an IT and Cloud Security Manager** · Cloud Security Alliance, 2022 · [Read](https://cloudsecurityalliance.org/blog/2022/11/23/ccsk-success-story-from-an-it-and-cloud-security-manager)
