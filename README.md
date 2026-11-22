@@ -15,45 +15,29 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 
 ## Security Contributions
 
-### mail-parser (SpamScope)
+### Published CVEs
 
-**3.2M+ PyPI downloads/month**
+| CVE | Project | Finding | GitHub advisory |
+| --- | --- | --- | --- |
+| [CVE-2026-129295](https://www.cve.org/CVERecord?id=CVE-2026-129295) | SpamScope/mail-parser | Polynomial ReDoS in email header parsing | [GHSA-r7w7-vpq8-c5vv](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-r7w7-vpq8-c5vv) |
+| [CVE-2026-129296](https://www.cve.org/CVERecord?id=CVE-2026-129296) | SpamScope/mail-parser | Path traversal in attachment extraction | [GHSA-fr3h-cpq2-9496](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-fr3h-cpq2-9496) |
+| [CVE-2026-129297](https://www.cve.org/CVERecord?id=CVE-2026-129297) | SpamScope/mail-parser | Sender IP spoofing in `get_server_ipaddress()` | [GHSA-72px-j8gh-p79x](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-72px-j8gh-p79x) |
+| [CVE-2026-129299](https://www.cve.org/CVERecord?id=CVE-2026-129299) | SpamScope/mail-parser | Uncaught exceptions and silent header loss while parsing untrusted input | [GHSA-24mq-4vc6-2prf](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-24mq-4vc6-2prf) |
+| [CVE-2026-129300](https://www.cve.org/CVERecord?id=CVE-2026-129300) | SpamScope/mail-parser | Uncaught exceptions when a `Received` date falls outside the supported range | [GHSA-xhrq-2mqv-q8wx](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-xhrq-2mqv-q8wx) |
+| [CVE-2026-129301](https://www.cve.org/CVERecord?id=CVE-2026-129301) | SpamScope/mail-parser | A single attachment can abort extraction and skip the rest of the batch | [GHSA-8cgq-x343-p74c](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-8cgq-x343-p74c) |
+| [CVE-2026-129302](https://www.cve.org/CVERecord?id=CVE-2026-129302) | guard-core | Quadratic ReDoS in a built in detection pattern blocks the event loop | [GHSA-r7hm-rjvg-xx7j](https://github.com/Guard-Core/guard-core/security/advisories/GHSA-r7hm-rjvg-xx7j) |
+| [CVE-2026-129303](https://www.cve.org/CVERecord?id=CVE-2026-129303) | guard-core | Whitespace normalization disables HTTP response splitting and command injection detection | [GHSA-w7wg-6q7v-44f2](https://github.com/Guard-Core/guard-core/security/advisories/GHSA-w7wg-6q7v-44f2) |
+| [CVE-2026-129304](https://www.cve.org/CVERecord?id=CVE-2026-129304) | guard-core | An unvalidated forwarded IP header affects Redis key matching | [GHSA-gm9r-hvc9-96gv](https://github.com/Guard-Core/guard-core/security/advisories/GHSA-gm9r-hvc9-96gv) |
+| [CVE-2026-129307](https://www.cve.org/CVERecord?id=CVE-2026-129307) | eml_parser | Excessive regex backtracking in `Received` header parsing causes denial of service | [GHSA-m4g8-47f9-h588](https://github.com/GOVCERT-LU/eml_parser/security/advisories/GHSA-m4g8-47f9-h588) |
 
-* [GHSA-r7w7-vpq8-c5vv](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-r7w7-vpq8-c5vv) | Polynomial ReDoS in email header parsing
-* [GHSA-fr3h-cpq2-9496](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-fr3h-cpq2-9496) | Path traversal in attachment extraction
-* [GHSA-78xv-5vfh-jh5q](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-78xv-5vfh-jh5q) | Denial of service via attacker controlled header names
-* [GHSA-72px-j8gh-p79x](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-72px-j8gh-p79x) | Sender IP spoofing in `get_server_ipaddress()`
-* [GHSA-24mq-4vc6-2prf](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-24mq-4vc6-2prf) | Uncaught exceptions and silent header loss on attacker controlled input
-* [GHSA-xhrq-2mqv-q8wx](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-xhrq-2mqv-q8wx) | Uncaught `OverflowError` / `OSError` on a `Received` date outside the supported range
-* [GHSA-8cgq-x343-p74c](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-8cgq-x343-p74c) | One hostile attachment aborts `write_attachments()` and drops the rest of the batch
+### Additional Security Advisories
 
-### liquidpy
-
-**317K+ PyPI downloads/month**
-
-* [GHSA-2jj6-v3xw-49w3](https://github.com/pwwang/liquidpy/security/advisories/GHSA-2jj6-v3xw-49w3) | Server side template injection and sandbox escape lead to arbitrary code execution
-
-### guard-core
-
-**34K+ PyPI downloads/month**
-
-* [GHSA-r7hm-rjvg-xx7j](https://github.com/rennf93/guard-core/security/advisories/GHSA-r7hm-rjvg-xx7j) | Quadratic ReDoS in a built in detection pattern freezes the event loop
-* [GHSA-w7wg-6q7v-44f2](https://github.com/rennf93/guard-core/security/advisories/GHSA-w7wg-6q7v-44f2) | Whitespace collapse preprocessing disables the CRLF and command injection detectors
-* [GHSA-gm9r-hvc9-96gv](https://github.com/rennf93/guard-core/security/advisories/GHSA-gm9r-hvc9-96gv) | Unvalidated `X-Forwarded-For` value interpolated into a Redis `KEYS` glob pattern
-
-### eml-parser
-
-**407K+ PyPI downloads/month**
-
-* [GHSA-m4g8-47f9-h588](https://github.com/GOVCERT-LU/eml_parser/security/advisories/GHSA-m4g8-47f9-h588) | Email parsing flaw allows security checks to be bypassed
-
-### mail-mime-parser
-
-* [GHSA-pmx8-5pxm-f2r6](https://github.com/zbateson/mail-mime-parser/security/advisories/GHSA-pmx8-5pxm-f2r6) | Memory and CPU exhaustion parsing untrusted message parts and header values
-
-### httptap
-
-* [GHSA-pgxm-hj3g-p7wv](https://github.com/ozeranskii/httptap/security/advisories/GHSA-pgxm-hj3g-p7wv) | Credentials and request body leaked to redirect targets on different origins when using `--follow`
+| GitHub advisory | Project | Finding |
+| --- | --- | --- |
+| [GHSA-78xv-5vfh-jh5q](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-78xv-5vfh-jh5q) | SpamScope/mail-parser | Denial of service when parsing crafted header names |
+| [GHSA-2jj6-v3xw-49w3](https://github.com/pwwang/liquidpy/security/advisories/GHSA-2jj6-v3xw-49w3) | liquidpy | Server side template injection and sandbox escape allow arbitrary code execution |
+| [GHSA-pmx8-5pxm-f2r6](https://github.com/zbateson/mail-mime-parser/security/advisories/GHSA-pmx8-5pxm-f2r6) | mail-mime-parser | Memory and CPU exhaustion when parsing untrusted message parts and header values |
+| [GHSA-pgxm-hj3g-p7wv](https://github.com/ozeranskii/httptap/security/advisories/GHSA-pgxm-hj3g-p7wv) | httptap | Credentials and request bodies can leak across origins when following redirects |
 
 ## Selected Publications
 
