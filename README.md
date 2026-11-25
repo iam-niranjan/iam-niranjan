@@ -29,13 +29,13 @@ Security Leader · Cloud Security · Vulnerability Research · Governance · AI 
 | [CVE-2026-129303](https://www.cve.org/CVERecord?id=CVE-2026-129303) | guard-core | Whitespace normalization disables HTTP response splitting and command injection detection | [GHSA-w7wg-6q7v-44f2](https://github.com/Guard-Core/guard-core/security/advisories/GHSA-w7wg-6q7v-44f2) |
 | [CVE-2026-129304](https://www.cve.org/CVERecord?id=CVE-2026-129304) | guard-core | An unvalidated forwarded IP header affects Redis key matching | [GHSA-gm9r-hvc9-96gv](https://github.com/Guard-Core/guard-core/security/advisories/GHSA-gm9r-hvc9-96gv) |
 | [CVE-2026-129307](https://www.cve.org/CVERecord?id=CVE-2026-129307) | eml_parser | Excessive regex backtracking in `Received` header parsing causes denial of service | [GHSA-m4g8-47f9-h588](https://github.com/GOVCERT-LU/eml_parser/security/advisories/GHSA-m4g8-47f9-h588) |
+| [CVE-2026-134026](https://www.cve.org/CVERecord?id=CVE-2026-134026) | liquidpy | Server side template injection and sandbox escape allow arbitrary code execution | [GHSA-2jj6-v3xw-49w3](https://github.com/pwwang/liquidpy/security/advisories/GHSA-2jj6-v3xw-49w3) |
 
 ### Additional Security Advisories
 
 | GitHub advisory | Project | Finding |
 | --- | --- | --- |
 | [GHSA-78xv-5vfh-jh5q](https://github.com/SpamScope/mail-parser/security/advisories/GHSA-78xv-5vfh-jh5q) | SpamScope/mail-parser | Denial of service when parsing crafted header names |
-| [GHSA-2jj6-v3xw-49w3](https://github.com/pwwang/liquidpy/security/advisories/GHSA-2jj6-v3xw-49w3) | liquidpy | Server side template injection and sandbox escape allow arbitrary code execution |
 | [GHSA-pmx8-5pxm-f2r6](https://github.com/zbateson/mail-mime-parser/security/advisories/GHSA-pmx8-5pxm-f2r6) | mail-mime-parser | Memory and CPU exhaustion when parsing untrusted message parts and header values |
 | [GHSA-pgxm-hj3g-p7wv](https://github.com/ozeranskii/httptap/security/advisories/GHSA-pgxm-hj3g-p7wv) | httptap | Credentials and request bodies can leak across origins when following redirects |
 
